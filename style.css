@@ -1,0 +1,37 @@
+* {
+  margin: 5px;
+  font-family: "Arimo", sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+section {
+  border: 1px solid black;
+  padding: 5px;
+  margin: 5px;
+}
+
+span {
+  font-style: italic;
+  display: list-item;
+}
+
+.boxes {
+  margin-left: 30px;
+}
+
+.side {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  padding-inline-start: 40px;
+}
+
+footer {
+  background-color: gray;
+  color: white;
+  text-align: center;
+  padding: 5px;
+}
